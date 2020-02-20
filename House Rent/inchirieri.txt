@@ -1,0 +1,10 @@
+1,garden house,Maramures Borsa Vasile Alecsandri 162,7,80
+2,apartament,Suceava Burdujeni,4,20
+3,casa Unchiu,Suceava Plopeni,10,100
+4,casa Bunica,Suceava Mihoveni,7,100
+5,Penthouse,Cluj,8,12
+6,My house,Cluj Strada Observatorului,3,80
+7,Luci house,Cluj Piata Marasti,1,20
+8,Catalin house,Cluj Gheorgheni,3,100
+9,Vasile house,Cluj centru,3,200
+10,Cozmin house,Cluj After Eight,4,150
